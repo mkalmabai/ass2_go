@@ -40,5 +40,5 @@ func main() {
 	prodwithpr := &walptop{
 		prod: prodwithwal,
 	}
-	fmt.Println("Price of ice prod with chocolate and walnut topping is: ", prodwithpr.getPrice(), "Tenge")
+	fmt.Println("Price of ice prod with  walnut topping is: ", prodwithpr.getPrice(), "Tenge")
 }
